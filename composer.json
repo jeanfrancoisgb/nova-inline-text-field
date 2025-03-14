@@ -15,13 +15,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Outl1ne\\NovaInlineTextField\\": "src/"
+      "jeanfrancoisgb\\NovaInlineTextField\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Outl1ne\\NovaInlineTextField\\FieldServiceProvider"
+        "jeanfrancoisgb\\NovaInlineTextField\\FieldServiceProvider"
       ]
     }
   },
