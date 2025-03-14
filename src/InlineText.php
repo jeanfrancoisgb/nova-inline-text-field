@@ -1,6 +1,6 @@
 <?php
 
-namespace Outl1ne\NovaInlineTextField;
+namespace jeanfrancoisgb\NovaInlineTextField;
 
 use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Http\Requests\NovaRequest;

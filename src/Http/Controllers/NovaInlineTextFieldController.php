@@ -1,11 +1,11 @@
 <?php
 
-namespace Outl1ne\NovaInlineTextField\Http\Controllers;
+namespace jeanfrancoisgb\NovaInlineTextField\Http\Controllers;
 
 use Exception;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Collection;
-use Outl1ne\NovaInlineTextField\InlineText;
+use jeanfrancoisgb\NovaInlineTextField\InlineText;
 use Laravel\Nova\Http\Requests\NovaRequest;
 use Laravel\Nova\Lenses\Lens;
 use Laravel\Nova\Fields\Stack;
