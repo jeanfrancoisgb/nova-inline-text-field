@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-inline-text-field",
+  "name": "jeanfrancoisgb/nova-inline-text-field",
   "description": "A Laravel Nova inline text field.",
   "keywords": [
     "laravel",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "require": {
     "php": ">=8.0",
-    "laravel/nova": "^4.12.4"
+    "laravel/nova": "^4.12.4||^5.0"
   },
   "autoload": {
     "psr-4": {
